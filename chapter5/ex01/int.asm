@@ -16,6 +16,6 @@ add rax, rbx
 add rax, rcx
 add rax, rdx
 
-mov eax, 1
-mov ebx, 0
+mov rax, 1
+mov rbx, 0
 int 0x80
